@@ -1,2 +1,6 @@
 # FloodDetection-using-SatelliteImagery
-A Flood Detection Project that detects the immediate issue of Flood in any area and displays it on a pin-pointed map.( Under Development )
+The Flood Detection Project is a cutting-edge initiative leveraging Python, Nvidia NGC cloud, and the TAO toolkit to address the urgent need for real-time flood detection and visualization. By harnessing the power of transfer learning and advanced data preprocessing techniques, the project aims to accurately identify flood occurrences in any given area and display them on a pinpointed map in near real-time.
+
+Python serves as the primary programming language, providing flexibility and robustness in developing the detection algorithms and data processing pipelines. The utilization of Nvidia NGC cloud infrastructure enables scalable computing power essential for handling large datasets and complex machine learning models. Additionally, the TAO toolkit plays a crucial role in data augmentation and preprocessing, ensuring the quality and diversity of training data for optimal model performance.
+
+Once fully developed, this project will serve as one among the vital tools for disaster management agencies, governments, and communities, providing timely and actionable information to mitigate the impact of floods and save lives. The integration of cutting-edge technologies demonstrates a commitment to innovation in addressing pressing environmental challenges.
